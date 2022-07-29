@@ -17,4 +17,6 @@ The dashboard tool found the github link provided below and will be updated semi
 
 Questions or concerns should be directed to: or.analytics.ht.lit.review@gmail.com 
 
+The submission form can be found: https://docs.google.com/forms/d/e/1FAIpQLSexXJKpYYpaIV8q04PltiG0qrjidkllzr3MeYEEvcYKgSDkcA/viewform?usp=sf_link  
+
 [1] Dimas, G. L., Konrad, R. A., Maass, K. L., & Trapp, A. C. (2022). A Survey of Operations Research and Analytics Literature Related to Anti-Human Trafficking. 
