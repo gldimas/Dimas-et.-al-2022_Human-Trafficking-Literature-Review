@@ -30,6 +30,8 @@ The submission form can be found [here](https://docs.google.com/forms/d/e/1FAIpQ
 * Added category to methods title "N/A" to enable easier filtering for the Position/Thought pieces where this data was not specified. 
 * Updated the filter tool to make it easier/possible to make an AND search on the filters. 
 * Updated Overview and Instructions mentioning the fact that under the new filter system if there are categories with no data present, then there is not button on the slicer. 
+* Added Figure 4 from [1] into the excel for easier access/to reflect any updates to new/revised works.
+
 </details>
 
 [Original  Data and Dashboard from [1] as of 05/30/2022](https://github.com/gldimas/Dimas-et.-al-2022_Human-Trafficking-Literature-Review/tree/9d643f99696a89706661416e62f6ce6c7ada7da9/Original%20Manuscript%20Data%20and%20Tool)
