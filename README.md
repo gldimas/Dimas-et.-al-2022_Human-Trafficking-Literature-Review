@@ -34,7 +34,7 @@ The submission form can be found [here](https://docs.google.com/forms/d/e/1FAIpQ
 
 </details>
 
-[Original  Data and Dashboard from [1] as of 05/30/2022](https://github.com/gldimas/Dimas-et.-al-2022_Human-Trafficking-Literature-Review/tree/9d643f99696a89706661416e62f6ce6c7ada7da9/Original%20Manuscript%20Data%20and%20Tool)
+[Original  Data and Dashboard from [1] as of 05/30/2022](https://github.com/gldimas/Dimas-et.-al-2022_Human-Trafficking-Literature-Review/tree/main/Original%20Manuscript%20Data%20and%20Tool)
 
 <details>
 <summary>Archive of Data and Dashboard Tool Edits </summary>
