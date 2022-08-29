@@ -8,7 +8,7 @@ This site hosts the data used in Dimas, Konrad, Maass, & Trapp (2022) "Operation
 
 In an effort to prolong the work presented in [1] the authors have created a google submission form where individuals can: 
 
-1) *Submit new* (not currently included in [1]) individuals believe are relevant and fall within the scope of the present study
+1) *Submit new* (not currently included in [1] ) individuals believe are relevant and fall within the scope of the present study
 
 2) *Submit revisions* to works currently included in [1]
 
