@@ -1,6 +1,6 @@
 # Human-Trafficking-Literature-Review
 
-This site hosts the data used in Dimas, Konrad, Maass, & Trapp (2022) "Operations Research and Analytics to combat human trafficking: A systematic review of academic literature" [1]. In addition there is a macro-enabled excel spreadsheet that allows for a closer examination of the original 142 studies included in [1]. 
+This site hosts the data used in Dimas, Konrad, Maass, & Trapp (2022) "Operations research and analytics to combat human trafficking: A systematic review of academic literature" [1]. In addition there is a macro-enabled excel spreadsheet that allows for a closer examination of the original 142 studies included in [1]. 
 
 **Questions or concerns should be directed to:** or.analytics.ht.lit.review [at] gmail.com
 
