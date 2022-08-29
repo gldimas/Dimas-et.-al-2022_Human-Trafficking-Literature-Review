@@ -21,7 +21,7 @@ The submission form can be found [here](https://docs.google.com/forms/d/e/1FAIpQ
 
 ## Data and Dashboard Versions
 
-[Most Recent Updated Data and Tool as of 08/21/2022](https://github.com/gldimas/Dimas-et.-al-2022_Human-Trafficking-Literature-Review/tree/main/Updated%20Versions%20of%20Data%20and%20Dashboard/Current%20Versions%20of%20Data%20and%20Dashboard)
+[Most Recent Updated Data and Tool as of 08/29/2022](https://github.com/gldimas/Dimas-et.-al-2022_Human-Trafficking-Literature-Review/tree/main/Updated%20Versions%20of%20Data%20and%20Dashboard/Current%20Versions%20of%20Data%20and%20Dashboard)
 
 <details>
 <summary>Changes in current version </summary>
