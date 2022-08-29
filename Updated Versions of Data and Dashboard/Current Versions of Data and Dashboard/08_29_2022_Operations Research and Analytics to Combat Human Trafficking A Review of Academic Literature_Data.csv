@@ -1,0 +1,143 @@
+﻿PaperName,Context,Female,Male,Child/Underage,LGBTQ+,Unspecfied or All individuals,North America,South America,Europe,Asia,Africa,Australia/Oceania,Unspecified/All regions,Prevention,Protection,Prosection,Partnership,Data Type,Network Flow,Resource Alloction,Supply Chain,Decision Support,Other / Unspecified,Inferential Statistics / Detection,Category,Data Envelopment Analysis,Network Interdiction,Integer Programming,Facility location,Queuing Theory,Simulation,(Social) Network Analysis,Empirical Analysis,Active Learning,Graph Construction,Link Inference,Machine / Deep Learning (General),Clustering or Classification,Unsupervised or Minimally Supervised Learning,Natural Language Processing,Information Extraction,Investigative Search,Game Theory,Other,Network / Graph Theory,Web Crawling / Scraping,N/A,Year Published
+Acharjee et al. (2018),General,0,0,0,0,1,1,1,1,1,1,0,0,1,0,0,0,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Adam et al. (2021),General,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,1,N/A,0,0,0,1,0,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2021
+Akram and Zafar (2019),General,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2019
+Ali et al. (2021),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2021
+Alvari et al. (2016),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,1,0,2016
+Alvari et al. (2017),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,2017
+Amin (2010),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,N/A,1,0,0,1,0,0,Position / Thought,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2010
+Andrews et al. (2018),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,1,0,2018
+Ardakani (2020),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,1,0,2020
+Asif et al. (2021),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,Secondary (Publicly Available),1,0,0,1,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2021
+Bhaumik et al. (2020),General,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,N/A,0,0,0,1,0,0,Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2020
+Binu et al. (2019),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2019
+Borrelli and Caltagirone (2020),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,N/A,0,0,0,0,1,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2020
+Boyd et al. (2021),Labor Trafficking,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2021
+Brelsford and Parakh (2018),Labor Trafficking,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,Mixed,0,0,1,1,0,0,Operations Research,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+"Brewster, Ingle, et al. (2014)",General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,N/A,0,0,0,1,0,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,2014
+"Brewster, Polovina, et al. (2014)",General,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,N/A,0,0,0,1,0,1,Position / Thought,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,2014
+Burbano et al. (2018),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,2018
+Caoli (2019),General,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,2019
+Caulkins et al. (2019),General,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,N/A,1,0,1,0,0,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2019
+Chambers et al. (2019),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,2019
+Chen et al. (2015),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,2015
+Cockbain et al. (2011),Sex Trafficking,0,0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,Secondary (Publicly Available),1,0,0,1,0,0,Analytics,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2011
+Cockbain et al. (2019),General,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2019
+Coxen (2021),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,2021
+da Silva Santos et al. (2019),Labor Trafficking,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,2019
+Darabian and Borzooei (2018),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2018
+de Vries and Radford (2021),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,Primary,0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2021
+Deeb-Swihart et al. (2019),General,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Primary,0,0,0,1,0,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2019
+Diaz and Panangadan (2020),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,2020
+Dimas et al. (2021),General,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,1,Secondary (Publicly Available),0,1,0,1,0,0,Operations Research,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021
+Diviák et al. (2021),Sex Trafficking,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,Secondary (Publicly Available),1,0,0,0,1,0,Analytics,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021
+Dubrawski et al. (2015),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0,2015
+Edge et al. (2020),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,Secondary (Publicly Available),0,0,0,1,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2020
+Esfahani et al. (2019),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,2019
+Gakiza et al. (2021),General,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,N/A,0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2021
+Gerry et al. (2021),General,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,0,Secondary (Publicly Available),0,0,0,1,0,0,Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2021
+Giacobe et al. (2016),Sex Trafficking,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),1,0,0,1,0,0,Analytics,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2016
+Giommoni and Ikwu (2021),Sex Trafficking,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,2021
+Goist et al. (2019),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,Secondary (Publicly Available),1,0,0,0,1,0,Analytics,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,1,0,1,0,2019
+Granizo et al. (2020),Sex Trafficking,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,2020
+Grimes et al. (2011),Sex Trafficking,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,Secondary (Publicly Available),0,0,0,1,0,0,Operations Research,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2011
+Harmon et al. (2020),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2020
+Hernández-Álvarez (2019),Sex Trafficking,1,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0,2019
+Hultgren et al. (2018),Sex Trafficking,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Mixed,0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,1,0,2018
+Hundman et al. (2018),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,1,0,2018
+Ibanez and Gazan (2016),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2016
+Ibanez and Suthers (2014),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2014
+Ibanez and Suthers (2016),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2016
+Imperial (2021),Sex Trafficking,0,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,Mixed,0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,2021
+Kapoor et al. (2017),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Operations Research,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,2017
+Kejriwal and Gu (2020),Sex Trafficking,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,Secondary (Publicly Available),1,0,0,1,0,0,Analytics,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2020
+Kejriwal and Kapoor (2019),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2019
+Kejriwal and Szekely (2017a),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,2017
+Kejriwal and Szekely (2017b),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,2017
+Kejriwal and Szekely (2017c),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,2017
+Kejriwal et al. (2017),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,2017
+Kejriwal et al. (2018),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,Secondary (Publicly Available),0,0,0,1,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,2018
+Kennedy (2012),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2012
+Keskin et al. (2021),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),1,0,0,0,0,0,Operations Research,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,1,0,2021
+Khanal (2020),General,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,N/A,0,0,0,0,1,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2020
+Kiss et al. (2021),Labor Trafficking,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,Primary,0,0,0,1,0,0,Analytics,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021
+Konrad (2019),General,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Secondary (Publicly Available),0,1,0,0,0,0,Operations Research,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2019
+Konrad et al (2021),General,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,N/A,0,0,0,0,1,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2021
+Konrad et al. (2017),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,N/A,0,0,0,0,1,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2017
+Kosmas et al. (2020),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,N/A,1,0,0,1,0,0,Operations Research,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020
+Kosmas et al. (2021),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,Mixed,1,0,0,0,1,0,Operations Research,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2021
+Kougkoulos et al. (2021),Labor Trafficking,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,Mixed,0,0,0,1,0,1,Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2021
+Kővári and Pruyt (2014),Sex Trafficking,1,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,Secondary (Publicly Available),0,0,0,1,0,0,Operations Research,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2014
+Kulshrestha (2021),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,2021
+Lavelle-Hill et al. (2021),Labor Trafficking,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2021
+LeBaron (2021),Labor Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,1,N/A,0,0,1,0,0,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2021
+Lee et al. (2021),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,2021
+Li et al. (2018),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),1,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,0,2018
+Li et al. (2021),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,2021
+Libaque-Saenz et al. (2018),Labor Trafficking,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2018
+Liu et al. (2019),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,2019
+Maass et al. (2020),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,Secondary (Publicly Available),0,1,0,0,0,0,Operations Research,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2020
+Mahbub (2021),General,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),1,0,0,0,1,0,Operations Research,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,0,2021
+Mahdiraji et al. (2020),Labor Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,Secondary (Publicly Available),0,0,1,0,0,0,Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2020
+Malik et al. (2018),General,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2018
+Mancuso (2014),Sex Trafficking,1,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2014
+Mathew and Mordeson (2017),General,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2017
+"Mathew, Mordeson and Yang (2019)",General,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2019
+McDonald et al. (2021),Labor Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2021
+McKenzie (2019),General,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,N/A,0,0,0,1,1,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2019
+Meier and Vitor (2021),General,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,Primary,1,0,0,1,0,0,Operations Research,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021
+Mensikova and Mattmann (2018),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,2018
+Mletzko et al. (2018),General,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2018
+Mordeson and Mathew (2017a),Sex Trafficking,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,Secondary (Publicly Available),0,0,0,1,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017
+Mordeson and Mathew (2017b),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2017
+Mordeson and Mathew (2018),General,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2018
+Mordeson and Mathew (2020a),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2020
+Mordeson and Mathew (2020b),General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2020
+Mordeson et al. (2017),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,1,Secondary (Publicly Available),0,0,0,1,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017
+Mordeson et al. (2019),General,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2019
+"Mordeson, Mathew and Acharjee (2018)",General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2018
+"Mordeson, Mathew and Binu (2019)",General,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019
+"Mordeson, Mordeson and Mathew (2018)",General,1,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,2018
+Mukherjee et al. (2021),General,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2021
+Nagpal et al. (2015),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,2015
+Neely et al. (2019),Sex Trafficking,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,Secondary (Publicly Available),0,0,0,1,0,0,Operations Research,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2019
+Orantes (2018),General,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,N/A,0,0,0,0,0,1,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2018
+Poelmans et al. (2012),Sex Trafficking,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2012
+Portnoff et al. (2017),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,2017
+Prashad et al. (2021),Labor Trafficking,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2021
+Price (2016),General,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2016
+Progga et al. (2020),Labor Trafficking,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,2020
+Rabbany et al. (2018),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,2018
+Ramchandani et al. (2021),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,1,Secondary (Publicly Available),0,0,1,0,0,0,Operations Research,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,2021
+Rodrigues et al. (2015),Labor Trafficking,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,2015
+"Sabon, Yang and Zhang (2021)",Sex Trafficking,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,1,1,0,Analytics,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2021
+Samanta et al. (2020),General,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,N/A,0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,2020
+Sebastian et al. (2020),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,Secondary (Publicly Available),1,0,0,0,0,0,Analytics,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,2020
+Senft et al. (2019),General,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Secondary (Publicly Available),0,0,1,1,0,0,Operations Research,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2019
+Sethi et al. (2013),General,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,2013
+Silva et al. (2014),Sex Trafficking,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,1,0,0,1,0,1,1,0,1,1,0,0,0,0,1,0,2014
+Simonson (2021),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,2021
+Stapleton et al. (2012),Sex Trafficking,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Secondary (Publicly Available),0,0,1,0,0,0,Operations Research,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2012
+Stylianou et al. (2017),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Mixed,0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2017
+Stylianou et al. (2019),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,Mixed,0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,2019
+Szakonyi et al. (2021),General,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2021
+Szekely et al. (2015),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,2015
+Tahir et al. (2021),Labor Trafficking,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,Mixed,0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2021
+Tambe and Tambay (2020),Labor Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,N/A,0,0,1,0,0,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2020
+Taylor (2018),Sex Trafficking,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,Primary,0,0,1,1,0,0,Operations Research,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Tezcan and Maass (2020),General,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,Secondary (Publicly Available),1,0,0,0,0,0,Operations Research,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2020
+Thöni et al. (2018),Labor Trafficking,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,Secondary (Publicly Available),0,0,1,1,0,0,Analytics,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2018
+Tong et al. (2017),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,2017
+Upadhayay et al. (2020),General,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,2020
+Vogt (2016),General,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Secondary (Publicly Available),0,0,0,0,1,0,Analytics,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2016
+Wang et al. (2012),Sex Trafficking,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,2012
+Wang et al. (2020),Sex Trafficking,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,2020
+Weinberg et al. (2020),Labor Trafficking,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,N/A,0,0,0,1,0,0,Position / Thought,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2020
+"White, Guikema, and Carr (2021)",Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,2021
+Whitney (2017),Sex Trafficking,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,Secondary (Publicly Available),0,0,0,1,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,2017
+Wiriyakun and Kurutach (2021a),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2021
+Wiriyakun and Kurutach (2021b),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2021
+Yang et al. (2018),General,0,0,0,0,1,0,0,0,1,0,0,0,0,1,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,2018
+Yao et al. (2021),General,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0,2021
+Zhou et al. (2016),General,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,Secondary (Publicly Available),0,0,0,1,1,0,Analytics,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,2016
+Zhu et al. (2019),Sex Trafficking,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,Secondary (Publicly Available),0,0,0,0,0,1,Analytics,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,2019
