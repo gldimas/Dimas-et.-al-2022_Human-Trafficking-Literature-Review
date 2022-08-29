@@ -44,5 +44,6 @@ The submission form can be found [here](https://docs.google.com/forms/d/e/1FAIpQ
 </details>
 
 ## Reference
-[1] Dimas, G. L., Konrad, R. A., Maass, K. L., & Trapp, A. C. (2022). A Survey of Operations Research and Analytics Literature Related to Anti-Human Trafficking. 
+[1]Dimas, G. L., Konrad, R. A., Maass, K. L., & Trapp, A. C. (2022). Operations research and analytics to combat human trafficking: A systematic review of academic literature. PLOS ONE 17(8): e0273708. [https://doi.org/10.1371/journal.pone.0273708](https://doi.org/10.1371/journal.pone.0273708)
+
 
